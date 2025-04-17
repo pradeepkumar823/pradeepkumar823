@@ -40,11 +40,11 @@
 
 ### 🌐 Let's Connect
 <p>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://leetcode.com/u/Pradeepkumar8/">
     <img src="https://img.shields.io/badge/Leetcode-blue?style=flat&logo=leetcode&logoColor=white"/>
+  </a>
+   <a href="https://www.instagram.com/im_golusingh8?igsh=MXZ6cXlqZjQwcmlkNQ==">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
