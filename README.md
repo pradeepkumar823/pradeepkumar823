@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi, I'm Pradeep Kumar</h1>
+<h1 align="center">I'm Pradeep Kumar</h1>
 <h3 align="center">Java Developer | Spring Boot Enthusiast | DSA | Problem Solver</h3>
 
 <p align="center">
