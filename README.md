@@ -43,7 +43,7 @@
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Pradeepkumar8/ target="_blank">
+  <a href="https://leetcode.com/u/Pradeepkumar8/">
     <img src="https://img.shields.io/badge/Leetcode-blue?style=flat&logo=leetcode&logoColor=white"/>
   </a>
 </p>
