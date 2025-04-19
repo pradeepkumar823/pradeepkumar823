@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Java-based AR Virtual Try-On app**
+- 🔭 Currently working on ** DSA-Java**
 - 🧠 Learning **Spring Boot, Hibernate, Advanced Java & Dsa**
 - 💬 Ask me about **Core Java, OOP, JDBC, Servlets, JSP, and APIs**
 - 💡 Passionate about **clean code, architecture & backend optimization**
