@@ -23,8 +23,7 @@ public class Pradeep {
     private String passion = "Building scalable, clean code solutions";
     private boolean codingLover = true;
     private String funFact = "I debug harder than I code! 🐛";
-    private int yearsOfExperience = 2;
-    private String[] goals = {"Master System Design", "Contribute to Open Source", "Build SaaS Products"};
+    private int yearsOfExperience = ;
 }
 ```
 
@@ -33,7 +32,7 @@ public class Pradeep {
 - 💬 **Ask Me About:** Core Java, OOP, JDBC, Servlets, JSP, REST APIs, Spring Framework, Database Design
 - 💡 **Passionate About:** Clean Code Architecture, Database Optimization, Backend Solutions & Performance Tuning
 - ⚡ **Fun Fact:** I debug harder than I code! I find solving complex bugs more rewarding than writing features! 🎯
-- 📧 **Email:** pradeepkumar.coder08@gmail.com
+- 📧 **Email:** pksinghgolu76310@gmail.com
 
 ---
 
@@ -198,10 +197,9 @@ public class Pradeep {
 
 ## 🎯 2026 Goals
 
-- [ ] 🏆 Reach 1000+ LeetCode problems solved
+- [ ] 🏆 Reach 400+ LeetCode problems solved
 - [ ] 📚 Master system design patterns
 - [ ] 🚀 Contribute to major open-source projects
-- [ ] 💼 Build and launch a SaaS product
 - [ ] 🌟 Become a recognized backend architect
 - [ ] 📖 Write technical blog posts & tutorials
 - [ ] 🎓 Mentor 10+ junior developers
@@ -224,7 +222,7 @@ My principles:
 
 ## 📝 Latest Activity
 
-- 🎓 Mastering Advanced Data Structures & Algorithms on LeetCode
+- 🎓 Mastering Data Structures & Algorithms on LeetCode
 - 🔧 Building scalable microservices with Spring Boot & Docker
 - 📚 Continuously improving problem-solving skills
 - 🤝 Open to collaborations and learning opportunities
