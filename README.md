@@ -170,8 +170,8 @@ public class Pradeep {
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pradeepkumar8/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_golusingh8?igsh=MXZ6cXlqZjQwcmlkNQ==)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradeepkumar823)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepkumar.coder08@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradeepkumar823)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pksinghgolu76310@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarpradeep23/)
 
 **Open to:**
 - 💬 Discussing backend architecture & system design
@@ -308,7 +308,7 @@ I actively learn from:
 
 **Want to collaborate, discuss tech, or just say hi?**
 
-- 💌 **Email:** pradeepkumar.coder08@gmail.com
+- 💌 **Email:** pksinghgolu76310@gmail.com
 - 🔗 **GitHub:** [@pradeepkumar823](https://github.com/pradeepkumar823)
 - 📱 **Instagram:** [@im_golusingh8](https://www.instagram.com/im_golusingh8?igsh=MXZ6cXlqZjQwcmlkNQ==)
 - 🏆 **LeetCode:** [Pradeepkumar8](https://leetcode.com/u/Pradeepkumar8/)
