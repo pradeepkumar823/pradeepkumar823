@@ -77,7 +77,7 @@ public class Pradeep {
 | Category | Skills |
 |----------|--------|
 | **Backend Development** | RESTful APIs, Microservices, Spring Boot, Spring MVC, Async Processing |
-| **Database** | SQL, JDBC, Hibernate ORM, Query Optimization, Database Normalization, Transaction Management |
+| **Database** | SQL, JDBC, Hibernate ORM, Query Optimization, Database Normalization |
 | **OOP & Design** | Design Patterns (Singleton, Factory, Strategy), SOLID Principles, Architecture |
 | **DSA** | Arrays, LinkedLists, Trees, Graphs, Sorting, Searching, Dynamic Programming |
 | **Problem Solving** | Competitive Programming, Code Optimization, Algorithm Design |
@@ -187,18 +187,18 @@ public class Pradeep {
 
 ```
 2024 - 2025                    2025 - 2026                    2026 +
-├─ Core Java Mastery     ├─ Spring Boot Advanced      ├─ Microservices Expert
-├─ OOP Concepts          ├─ System Design Learning    ├─ Cloud Architecture
+├─ Core Java Mastery     ├─  Basic Spring Boot        ├─ Advanced Spring Boot
+├─ OOP Concepts          ├─  Basic System Design      ├─ Microservices Expert
 ├─ Basic DSA             ├─ Intermediate DSA          ├─ Advanced DSA
-└─ First Backend Apps    └─ Production Applications   └─ Architect Role
+└─ First Backend Website └─ Production Applications   └─ Architect Role
 ```
 
 ---
 
 ## 🎯 2026 Goals
 
-- [ ] 🏆 Reach 400+ LeetCode problems solved
-- [ ] 📚 Master system design patterns
+- [ ] 🏆 Reach 700+ LeetCode problems solved
+- [ ] 📚 Master Spring Boot COncepts
 - [ ] 🚀 Contribute to major open-source projects
 - [ ] 🌟 Become a recognized backend architect
 - [ ] 📖 Write technical blog posts & tutorials
